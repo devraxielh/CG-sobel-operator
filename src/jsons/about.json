@@ -1,6 +1,6 @@
 {
     "title": "Acerca de",
-    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocLB5QYkCAWg3_5lot_VmbKApfikDtxLltgp9ljhtwgAJPMBwwiZKg=s576-c-no",
+    "imageSrc": "./assets/yo.png",
     "imageAlt": "Rodrigo Garcia",
     "name": "Rodrigo García, PhD",
     "sectionTitle": "Objeto Virtual de Aprendizaje: Operador Sobel",

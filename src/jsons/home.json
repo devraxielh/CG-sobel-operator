@@ -1,0 +1,9 @@
+{
+    "imageSrc": "./assets/operador-sobel.png",
+    "imageAlt": "Imagen del Operador Sobel",
+    "title": "¿Qué es el Operador Sobel?",
+    "description": [
+        "El Operador Sobel es una técnica de procesamiento de imágenes utilizada para la detección de bordes. Fue desarrollado por Irwin Sobel y Gary Feldman en el Stanford Artificial Intelligence Laboratory (SAIL) en 1968. Este operador calcula el gradiente de la intensidad de una imagen en cada punto, dando la dirección del mayor incremento posible (de negro a blanco) y la tasa de cambio en esa dirección.",
+        "El Operador Sobel es ampliamente utilizado en aplicaciones de procesamiento de imágenes y visión por computadora, como el reconocimiento de patrones, la segmentación de imágenes médicas, y los sistemas de asistencia al conductor en vehículos. Su capacidad para detectar bordes hace que sea una herramienta fundamental en estos campos."
+    ]
+}
