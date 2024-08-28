@@ -1,0 +1,52 @@
+[
+    {
+        "question": "¿Cuál es el propósito principal del Operador Sobel en el procesamiento de imágenes?",
+        "options": [
+            "Reducción de ruido",
+            "Detección de bordes",
+            "Compresión de imágenes",
+            "Mejora del contraste"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "¿Qué tamaño tienen los kernels utilizados en el Operador Sobel?",
+        "options": [
+            "2x2",
+            "3x3",
+            "4x4",
+            "5x5"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "¿Qué calcula el Operador Sobel en cada punto de la imagen?",
+        "options": [
+            "El valor promedio de los píxeles",
+            "La desviación estándar de los píxeles",
+            "El gradiente de la intensidad",
+            "La transformada de Fourier"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "¿Cuántos kernels de convolución utiliza típicamente el Operador Sobel?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "¿Cuál de las siguientes NO es una aplicación común del Operador Sobel?",
+        "options": [
+            "Reconocimiento de patrones",
+            "Segmentación de imágenes médicas",
+            "Compresión de imágenes sin pérdida",
+            "Sistemas de asistencia al conductor"
+        ],
+        "correctAnswer": 2
+    }
+]

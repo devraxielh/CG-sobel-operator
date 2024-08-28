@@ -1,0 +1,21 @@
+{
+    "title": "Acerca de",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocLB5QYkCAWg3_5lot_VmbKApfikDtxLltgp9ljhtwgAJPMBwwiZKg=s576-c-no",
+    "imageAlt": "Rodrigo Garcia",
+    "name": "Rodrigo García, PhD",
+    "sectionTitle": "Objeto Virtual de Aprendizaje: Operador Sobel",
+    "description": "Este Objeto Virtual de Aprendizaje (OVA) está diseñado para proporcionar una comprensión integral del Operador Sobel, una técnica fundamental en el procesamiento de imágenes digitales y la visión por computadora.",
+    "structureTitle": "El OVA se estructura en cuatro secciones principales:",
+    "structure": [
+        "Teoría: Explica los fundamentos matemáticos y conceptuales del Operador Sobel.",
+        "Animación: Proporciona una visualización interactiva del funcionamiento del operador.",
+        "Evaluación: Permite a los usuarios poner a prueba sus conocimientos adquiridos.",
+        "Acerca de: Ofrece información sobre el OVA y sus objetivos educativos."
+    ],
+    "targetAudience": "Este OVA está dirigido a estudiantes de ingeniería, ciencias de la computación y profesionales interesados en el procesamiento de imágenes. Su objetivo es facilitar el aprendizaje autónomo y proporcionar una experiencia educativa interactiva y enriquecedora.",
+    "learningOutcomesTitle": "Resultados de aprendizaje donde apunta",
+    "learningOutcomes": [
+        "Comprender los conceptos fundamentales de OpenCV y su aplicación en la manipulación de imágenes.",
+        "Aplicar técnicas de detección de bordes y contornos utilizando OpenCV."
+    ]
+}
