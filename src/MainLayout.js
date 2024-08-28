@@ -1,13 +1,4 @@
 import React from 'react';
-const toggleFullscreen = () => {
-    if (!document.fullscreenElement) {
-      document.documentElement.requestFullscreen().catch(err => {
-        console.error(`Error attempting to enable full-screen mode: ${err.message} (${err.name})`);
-      });
-    } else {
-      document.exitFullscreen();
-    }
-  };
 const MainLayout = ({ appName, activeSection, setActiveSection, renderContent }) => {
     return (
         <div className="flex flex-col min-h-screen bg-gray-100">
@@ -23,9 +14,6 @@ const MainLayout = ({ appName, activeSection, setActiveSection, renderContent })
                 </button>
                 </li>
             ))}
-            <button onClick={toggleFullscreen} className="ml-4 p-2 bg-gray-700 text-white rounded">
-                Maximize
-            </button>
             </ul>
         </nav>
         <main className="flex-grow p-4">
