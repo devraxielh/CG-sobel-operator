@@ -13,7 +13,7 @@ const SobelOperatorApp = () => {
   const renderTeoria = () => <Theory />;
   const renderEvaluacion = () => <Evaluation />;
   const renderAnimacion = () => <Animation />;
-  const [activeSection, setActiveSection] = useState('teoria');
+  const [activeSection, setActiveSection] = useState('inicio');
   const renderContent = () => {
     switch(activeSection) {
       case 'inicio': return renderHome();
