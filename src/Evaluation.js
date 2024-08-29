@@ -54,7 +54,7 @@ const Evaluation = () => {
 
     return (
         <div className="bg-white p-6 rounded-lg shadow-lg">
-            <h3 className="text-xl font-bold mb-4">Evaluación sobre el Operador Sobel</h3>
+            <h3 className="text-xl font-bold mb-4">Evaluación</h3>
             <form onSubmit={handleSubmit}>
                 {questionsData.map(renderQuestion)}
                 {errorMessage && (
