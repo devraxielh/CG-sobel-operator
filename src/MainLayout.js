@@ -1,5 +1,6 @@
 import React from 'react';
 const MainLayout = ({ appName, activeSection, setActiveSection, renderContent }) => {
+    const today = new Date();
     return (
         <div className="flex flex-col min-h-screen bg-gray-100">
         <nav className="bg-blue-600 text-white p-4">
@@ -23,7 +24,7 @@ const MainLayout = ({ appName, activeSection, setActiveSection, renderContent })
             </div>
         </main>
         <footer className="bg-gray-200 text-center p-4">
-            <p>&copy; 2024 {appName}. Todos los derechos reservados.</p>
+            <p>&copy; {today.getDate()} {appName}. Todos los derechos reservados.</p>
         </footer>
         </div>
     );
