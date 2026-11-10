@@ -15,7 +15,7 @@
     "targetAudience": "Este OVA está dirigido a estudiantes de ingeniería, ciencias de la computación y profesionales interesados en el procesamiento de imágenes. Su objetivo es facilitar el aprendizaje autónomo y proporcionar una experiencia educativa interactiva y enriquecedora.",
     "learningOutcomesTitle": "Resultados de aprendizaje donde apunta",
     "learningOutcomes": [
-        "Comprender los conceptos fundamentales de OpenCV y su aplicación en la manipulación de imágenes.",
-        "Aplicar técnicas de detección de bordes y contornos utilizando OpenCV."
+        "Utilizar elementos de proyeccion y perspectiva.",
+        "Crear algoritmos basicos para computacion grafica - Modelar figuras en el plano y en el espacio 3D"
     ]
 }
